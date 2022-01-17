@@ -1,0 +1,1 @@
+H:\py\pydata\tg_echo\Scripts\python.exe H:/py/___pj/tg_echo/echobot.py
